@@ -1,0 +1,108 @@
+<ncrsystem companyname="xxxx" companyid="aaaa">
+    <data exportdate="06.01.2019 20:52">
+        <issue>
+            <id>18-00600-0001</id>
+            <registrationdate>27.07.2018 09:03</registrationdate>
+            <registeredby>A</registeredby>
+            <resonsible>G</resonsible>
+            <shorttitle>Gradseien 97</shorttitle>
+            <description>Driftsesdcvxcng</description>
+            <place>A</place>
+            <department>U</department>
+            <businessarea>Biogass</businessarea>
+            <issuetype>Uøddselse</issuetype>
+            <issuecategory>HMsshold</issuecategory>
+            <discovered>Bexdelse</discovered>
+            <supplier>Txin</supplier>
+            <severity>Axag</severity>
+            <immediateactiontype>Vape</immediateactiontype>
+            <costs>20120</costs>
+            <rootcausecategory>Arsase</rootcausecategory>
+            <rootcausetype>Dåaselse</rootcausetype>
+            <issueclosed>12.12.2018</issueclosed>
+            <closedby>Per</closedby>
+            <actions>
+                <action>
+                    <id>18-00600-0001-01</id>
+                    <status>In progress</status>
+                    <responsible>Gr</responsible>
+                    <description>
+Drdfgsdfhsfgralen?
+                    </description>
+                    <evaluation/>
+                    <costs>0</costs>
+                    <deadline>30.11.2018</deadline>
+                    <completeddate/>
+                    <usefulness/>
+                </action>
+                <action>
+                    <id>18-00600-0001-02</id>
+                    <status>Verified</status>
+                    <responsible>G</responsible>
+                    <description>
+sdfsdfsdadfa
+                    </description>
+                    <evaluation>
+Deasdasdd.
+                    </evaluation>
+                    <deadline>30.09.2018</deadline>
+                    <costs>1000</costs>
+                    <completeddate>19.11.2018</completeddate>
+                    <usefulness>Yes, risk reduced</usefulness>
+                </action>
+            </actions>
+        </issue>
+        <issue>
+            <id>18-00600-0002</id>
+            <registrationdate>27.07.2018 09:03</registrationdate>
+            <registeredby>A</registeredby>
+            <resonsible>G</resonsible>
+            <shorttitle>Ged7</shorttitle>
+            <description>Dasg</description>
+            <place>asd</place>
+            <department>asdw</department>
+            <businessarea>as</businessarea>
+            <issuetype>Uase</issuetype>
+            <issuecategory>Hsaold</issuecategory>
+            <discovered>Besse</discovered>
+            <supplier>Tsn</supplier>
+            <severity>a</severity>
+            <immediateactiontype>Vaape</immediateactiontype>
+            <costs>20000</costs>
+            <rootcausecategory>Arae</rootcausecategory>
+            <rootcausetype>Dårae</rootcausetype>
+            <issueclosed>12.12.2018</issueclosed>
+            <closedby>F</closedby>
+            <actions>
+                <action>
+                    <id>18-00600-0002-01</id>
+                    <status>In progress</status>
+                    <responsible>G</responsible>
+                    <description>
+Driasfdden?
+                    </description>
+                    <evaluation/>
+                    <costs>0</costs>
+                    <deadline>30.11.2018</deadline>
+                    <completeddate/>
+                    <usefulness/>
+                </action>
+                <action>
+                    <id>18-00600-0002-02</id>
+                    <status>Verified</status>
+                    <responsible>G</responsible>
+                    <description>
+Tdfsrem prioriterte telefoner.
+                    </description>
+                    <evaluation>
+Detasdut i tid.
+                    </evaluation>
+                    <deadline>30.09.2018</deadline>
+                    <costs>1000</costs>
+                    <completeddate>19.11.2018</completeddate>
+                    <usefulness>Yes, risk reduced</usefulness>
+                </action>
+            </actions>
+        </issue>
+    </data>
+</ncrsystem>
