@@ -1,9 +1,9 @@
 {
-    "companyname":"xxxx",
-    "companyid":"aaaa",
-    "exportdate":"06.01.2019 20:52",
-    "issues":[
+"issues":[
         {
+            "companyname":"xxxx",
+            "companyid":"aaaa",
+            "exportdate":"06.01.2019 20:52",
             "id":"18-00600-0001",
             "registrationdate":"27.07.2018 09:03",
             "registeredby":"A",
@@ -50,6 +50,9 @@
             ]
         },
         {
+            "companyname":"xxxx",
+            "companyid":"aaaa",
+            "exportdate":"06.01.2019 20:52",
             "id":"18-00600-0002",
             "registrationdate":"27.07.2018 09:03",
             "registeredby":"A",
