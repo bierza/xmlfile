@@ -1,22 +1,99 @@
 {
-    "glossary": {
-        "title": "example glossary",
-		"GlossDiv": {
-            "title": "S",
-			"GlossList": {
-                "GlossEntry": {
-                    "ID": "SGML",
-					"SortAs": "SGML",
-					"GlossTerm": "Standard Generalized Markup Language",
-					"Acronym": "SGML",
-					"Abbrev": "ISO 8879:1986",
-					"GlossDef": {
-                        "para": "A meta-markup language, used to create markup languages such as DocBook.",
-						"GlossSeeAlso": ["GML", "XML"]
-                    },
-					"GlossSee": "markup"
+    "companyname":"xxxx",
+    "companyid":"aaaa",
+    "exportdate":"06.01.2019 20:52",
+    "issues":[
+        {
+            "id":"18-00600-0001",
+            "registrationdate":"27.07.2018 09:03",
+            "registeredby":"A",
+            "resonsible":"G",
+            "shorttitle":"Gradseien 97",
+            "description":"Driftsesdcvxcng",
+            "place":"A",
+            "department":"U",
+            "businessarea":"Biogass",
+            "issuetype":"Uøddselse",
+            "issuecategory":"HMsshold",
+            "discovered":"Bexdelse",
+            "supplier":"Txin",
+            "severity":"Axag",
+            "immediateactiontype":"Vape",
+            "costs":"20120",
+            "rootcausecategory":"Arsase",
+            "rootcausetype":"Dåaselse",
+            "issueclosed":"12.12.2018",
+            "closedby":"Per",
+            "actions":[
+                {
+                    "id":"8-00600-0001-01",
+                    "status":"In progress",
+                    "responsible":"Gr",
+                    "description":"Drdfgsdfhsfgralen?",
+                    "evaluation":"",
+                    "costs":"0",
+                    "deadline":"30.11.2018",
+                    "completeddate":"",
+                    "usefulness": ""
+                },
+                {
+                    "id":"8-00600-0001-02",
+                    "status":"In progresss",
+                    "responsible":"Grs",
+                    "description":"Drdfgsdfhsfgralen?s",
+                    "evaluation":"s",
+                    "costs":"s",
+                    "deadline":"30.11.2018ss",
+                    "completeddate":"s",
+                    "usefulness": "s"
                 }
-            }
+            ]
+        },
+        {
+            "id":"18-00600-0002",
+            "registrationdate":"27.07.2018 09:03",
+            "registeredby":"A",
+            "resonsible":"G",
+            "shorttitle":"Gradseien 97",
+            "description":"Driftsesdcvxcng",
+            "place":"A",
+            "department":"U",
+            "businessarea":"Biogass",
+            "issuetype":"Uøddselse",
+            "issuecategory":"HMsshold",
+            "discovered":"Bexdelse",
+            "supplier":"Txin",
+            "severity":"Axag",
+            "immediateactiontype":"Vape",
+            "costs":"20120",
+            "rootcausecategory":"Arsase",
+            "rootcausetype":"Dåaselse",
+            "issueclosed":"12.12.2018",
+            "closedby":"Per",
+            "actions":[
+                {
+                    "id":"8-00600-0002-01",
+                    "status":"In progress",
+                    "responsible":"Gr",
+                    "description":"Drdfgsdfhsfgralen?",
+                    "evaluation":"",
+                    "costs":"0",
+                    "deadline":"30.11.2018",
+                    "completeddate":"",
+                    "usefulness": ""
+                },
+                {
+                    "id":"8-00600-0002-02",
+                    "status":"In progresss",
+                    "responsible":"Grs",
+                    "description":"Drdfgsdfhsfgralen?s",
+                    "evaluation":"s",
+                    "costs":"s",
+                    "deadline":"30.11.2018ss",
+                    "completeddate":"s",
+                    "usefulness": "s"
+                }
+            ]
         }
-    }
+    ]
 }
