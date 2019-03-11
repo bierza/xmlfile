@@ -5,12 +5,8 @@
     "data": {
       "-exportdate": "06.01.2019 20:52",
       "issue": {
-        "id": "
-18-00600-0001 
-",
-        "registrationdate": "
-27.07.2018 09:03 
-",
+        "id": "18-00600-0001",
+        "registrationdate": "27.07.2018 09:03",
         "registeredby": "Testperson",
         "resonsible": "Testperson",
         "shorttitle": "Testveien 97",
@@ -35,9 +31,7 @@
               "id": "18-00600-0001-01",
               "status": "In progress",
               "responsible": "Testperson",
-              "description": "
-Er beredskapsplanen enkelt tilgjengelig for Driftssentralen?
-",
+              "description": "Er beredskapsplanen enkelt tilgjengelig for Driftssentralen?",
               "costs": "0",
               "deadline": "30.11.2018"
             },
@@ -45,12 +39,8 @@ Er beredskapsplanen enkelt tilgjengelig for Driftssentralen?
               "id": "18-00600-0001-02",
               "status": "Verified",
               "responsible": "Testperson",
-              "description": "
-Testbedrift prøvde å kontakte Testperson først. Entreprenør skal kontakte driftssentralen først. Dersom alle operatører på driftssentralen er opptatt i telefon så kommer ikke andre gjennom. Mangler mulighet til å få frem prioriterte telefoner.
-",
-              "evaluation": "
-Dette er noe vi håper å få til, men det ser dessverre ut til å dra ut i tid.
-",
+              "description": "Testbedrift prøvde å kontakte Testperson først. Entreprenør skal kontakte driftssentralen først. Dersom alle operatører på driftssentralen er opptatt i telefon så kommer ikke andre gjennom. Mangler mulighet til å få frem prioriterte telefoner.",
+              "evaluation": "Dette er noe vi håper å få til, men det ser dessverre ut til å dra ut i tid.",
               "deadline": "30.09.2018",
               "costs": "1000",
               "completeddate": "19.11.2018",
