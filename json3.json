@@ -1,9 +1,9 @@
 {
   "ncrsystem": {
-    "-companyname": "Testbedrift AS",
-    "-companyid": "COMH-B6NH7W",
+    "companyname": "Testbedrift AS",
+    "companyid": "COMH-B6NH7W",
     "data": {
-      "-exportdate": "06.01.2019 20:52",
+      "exportdate": "06.01.2019 20:52",
       "issue": {
         "id": "18-00600-0001",
         "registrationdate": "27.07.2018 09:03",
