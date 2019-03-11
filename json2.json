@@ -1,0 +1,64 @@
+{
+  "ncrsystem": {
+    "-companyname": "Testbedrift AS",
+    "-companyid": "COMH-B6NH7W",
+    "data": {
+      "-exportdate": "06.01.2019 20:52",
+      "issue": {
+        "id": "
+18-00600-0001 
+",
+        "registrationdate": "
+27.07.2018 09:03 
+",
+        "registeredby": "Testperson",
+        "resonsible": "Testperson",
+        "shorttitle": "Testveien 97",
+        "description": "Driftsentralen varsler om en avgravd gassledning",
+        "place": "Anlegg",
+        "department": "Utbygging",
+        "businessarea": "Biogass",
+        "issuetype": "Uønsket hendelse",
+        "issuecategory": "HMS - nestenulykke - farlig forhold",
+        "discovered": "Beredskapshendelse",
+        "supplier": "Testbedrift",
+        "severity": "Alvorlig",
+        "immediateactiontype": "Varslet beredskapsgruppe",
+        "costs": "20000",
+        "rootcausecategory": "Arbeidsutførelse",
+        "rootcausetype": "Dårlig arbeidsutførelse",
+        "issueclosed": "12.12.2018",
+        "closedby": "Testperson",
+        "actions": {
+          "action": [
+            {
+              "id": "18-00600-0001-01",
+              "status": "In progress",
+              "responsible": "Testperson",
+              "description": "
+Er beredskapsplanen enkelt tilgjengelig for Driftssentralen?
+",
+              "costs": "0",
+              "deadline": "30.11.2018"
+            },
+            {
+              "id": "18-00600-0001-02",
+              "status": "Verified",
+              "responsible": "Testperson",
+              "description": "
+Testbedrift prøvde å kontakte Testperson først. Entreprenør skal kontakte driftssentralen først. Dersom alle operatører på driftssentralen er opptatt i telefon så kommer ikke andre gjennom. Mangler mulighet til å få frem prioriterte telefoner.
+",
+              "evaluation": "
+Dette er noe vi håper å få til, men det ser dessverre ut til å dra ut i tid.
+",
+              "deadline": "30.09.2018",
+              "costs": "1000",
+              "completeddate": "19.11.2018",
+              "usefulness": "Yes, risk reduced"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
