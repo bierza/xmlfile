@@ -24,7 +24,11 @@
                "rootcausetype":"",
                "issueclosed":"19.11.2018 09:27:25",
                "closedby":"Geir Rosbach",
-               "actions":[{}]
+               "actions":[{"id":"",
+                     "status":"",
+                     "responsible":"",
+                     "costs":"",
+                     "deadline":""}]
             },
             {
                "id":"17-300-0002",
