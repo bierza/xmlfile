@@ -1,0 +1,75 @@
+{
+   "ncrsystem":{
+      "companyname":"Lyse NEO",
+      "companyid":"COMH-B6NH7W",
+      "data":{
+         "exportdate":"19.03.2019",
+         "issues":[
+            {
+               "id":"17-300-0001",
+               "registrationdate":"05.12.2017 09:35:51",
+               "responsible":"Geir Rosbach",
+               "shorttitle":"2017 plan for interne revisjoner er ikke gjennomført",
+               "place":"Kontor (internt)",
+               "department":"Lyse Neo AS",
+               "issuetype":"Avvik kvalitet",
+               "issuecategory":"Prosess / prosedyre",
+               "businessarea":"",
+               "discovered":"Revisjon fra myndighet",
+               "supplier":"",
+               "severity":"",
+               "immediateactiontype":"",
+               "immediatecosts":"",
+               "rootcausecategory":"",
+               "rootcausetype":"",
+               "issueclosed":"19.11.2018 09:27:25",
+               "closedby":"Geir Rosbach",
+               "actions":[{}]
+            },
+            {
+               "id":"17-300-0002",
+               "registrationdate":"05.12.2017 09:42:18",
+               "responsible":"Geir Rosbach",
+               "shorttitle":"Utvikle kompetansematrise ",
+               "place":"Kontor (internt)",
+               "department":"Lyse Neo AS",
+               "issuetype":"Forbedringsforslag",
+               "issuecategory":"Opplæring",
+               "businessarea":"",
+               "discovered":"ISO-revisjon",
+               "supplier":"",
+               "severity":"",
+               "immediateactiontype":"",
+               "immediatecosts":"",
+               "rootcausecategory":"",
+               "rootcausetype":"",
+               "issueclosed":"08.03.2019 09:13:56",
+               "closedby":"Anne Kristine Hodne",
+               "actions":[
+                  {
+                     "id":"655",
+                     "status":"Under arbeid",
+                     "responsible":"Rune Jelsa",
+                     "costs":"",
+                     "deadline":"30.08.2018"
+                  },
+                  {
+                     "id":"655-SO1",
+                     "status":"Klart for verifisering",
+                     "responsible":"Rune Jelsa",
+                     "costs":"",
+                     "deadline":"31.12.2014"
+                  },
+                  {
+                     "id":"655-SO4",
+                     "status":"Under arbeid",
+                     "responsible":"Rune Jelsa",
+                     "costs":"",
+                     "deadline":"30.08.2018"
+                  }
+               ]
+            }
+         ]
+      }
+   }
+}
