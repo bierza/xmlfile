@@ -24,11 +24,14 @@
                "rootcausetype":"",
                "issueclosed":"19.11.2018 09:27:25",
                "closedby":"Geir Rosbach",
-               "actions":[{"id":"",
+               "actions":{
+"action": [
+{"id":"",
                      "status":"",
                      "responsible":"",
                      "costs":"",
                      "deadline":""}]
+                     }
             },
             {
                "id":"17-300-0002",
@@ -49,7 +52,7 @@
                "rootcausetype":"",
                "issueclosed":"08.03.2019 09:13:56",
                "closedby":"Anne Kristine Hodne",
-               "actions":[
+               "actions":{"action": [
                   {
                      "id":"655",
                      "status":"Under arbeid",
@@ -72,6 +75,7 @@
                      "deadline":"30.08.2018"
                   }
                ]
+               }
             }
          ]
       }
