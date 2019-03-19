@@ -4,7 +4,7 @@
       "companyid":"COMH-B6NH7W",
       "data":{
          "exportdate":"19.03.2019",
-         "issues":[
+         "issues":{
             {
                "id":"17-300-0002",
                "registrationdate":"05.12.2017 09:42:18",
@@ -48,7 +48,7 @@
                   }
                ]
             }
-         ]
+}
       }
    }
 }
